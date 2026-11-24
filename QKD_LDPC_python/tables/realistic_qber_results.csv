@@ -1,0 +1,4 @@
+block_length,trials,qber,efficiency,communication_rounds,code_rate,shortened_bits,punctured_bits,max_punctured_bits,remaining_key_bits,disclosed_bits_per_round,FER
+1944,5,0.02,1.310799638896032,3.8,0.8333,0,58,152,1886,22,0.0
+1944,5,0.05,1.1892692126702218,3.4,0.6667,0,128,302,1816,29,0.0
+1944,5,0.08,1.1277024584746866,2.4,0.5,0,319,439,1625,35,0.0
